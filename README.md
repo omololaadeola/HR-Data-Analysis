@@ -36,6 +36,10 @@ Gender: The data shows that there are more male employees than female employees.
 
 Job Levels and Service Years: The data shows that there are employees at different job levels and with varying years of service. HR should consider whether these employees have different needs or face different challenges in the workplace. They may want to develop targeted interventions to address the needs of specific employee groups.
 
+CONCLUSION
+Based on the insights derived from the HR analytics dashboard, it is clear that there are several areas where HR can focus its efforts to improve employee outcomes and drive business success. First, HR should pay attention to the employees who are at risk of being laid off and ensure that they are being provided with adequate support. Additionally, HR should work to address issues related to job satisfaction and gender imbalance in the workforce. Finally, HR should consider the impact of distance status on employee productivity and job satisfaction, and develop strategies to address any challenges that employees may be facing in this regard.
+
+By taking a data-driven approach to HR management and using tools like Power BI, organizations can gain valuable insights into their workforce and make informed decisions about how to optimize their human capital. With the right data and analytics tools, HR can identify opportunities for improvement and take targeted actions to drive business success.
 
 
 
