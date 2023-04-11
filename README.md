@@ -1,7 +1,7 @@
 # HR-Data-Analysis
 HR Analytics Dashboard
 
-Link To The Dashboard : https://app.powerbi.com/view?r=eyJrIjoiNzRiODc0MjYtZWQ5Ny00YmIwLTg3NWItNGRjNTA3Mjg5N2IyIiwidCI6IjQzYTJmMjFlLTExZGItNDBjYS1iMjlkLWIwNGY3NDJhOTAzMCJ9
+Link To The Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiNzRiODc0MjYtZWQ5Ny00YmIwLTg3NWItNGRjNTA3Mjg5N2IyIiwidCI6IjQzYTJmMjFlLTExZGItNDBjYS1iMjlkLWIwNGY3NDJhOTAzMCJ9
 
 AIM
 
