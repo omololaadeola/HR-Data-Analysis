@@ -1,5 +1,4 @@
 # HR-Data-Analysis
-Workforce analytics that shows the KPIs and statistical pattern of employee turn-over, people relations, promotion and lay off status prediction based on performances, home distance of employees to the office, and job satisfactory levels.
 
 Link To The Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiNzRiODc0MjYtZWQ5Ny00YmIwLTg3NWItNGRjNTA3Mjg5N2IyIiwidCI6IjQzYTJmMjFlLTExZGItNDBjYS1iMjlkLWIwNGY3NDJhOTAzMCJ9
 
